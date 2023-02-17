@@ -2,6 +2,7 @@ import "./App.css";
 import axios from "axios";
 import { useState } from "react";
 
+
 type GITHUBResponse = {
   name: string;
   avatar_url: string;
